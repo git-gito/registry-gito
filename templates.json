@@ -1,0 +1,13 @@
+{
+    "templates": [
+        {
+            "tmpl": "default",
+            "desc": "Default template",
+            "owner": "Jamie Poeffel",
+            "source": {
+                "url": "https://raw.githubusercontent.com/Jamie-Poeffel/Gito/refs/heads/main/.gito/template.gito",
+                "type": "single"
+            }
+        }
+    ]
+}
