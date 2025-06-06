@@ -5,7 +5,7 @@
             "desc": "Default template",
             "owner": "Jamie Poeffel",
             "source": {
-                "url": "https://raw.githubusercontent.com/Jamie-Poeffel/Gito/refs/heads/main/.gito/template.gito",
+                "url": "https://raw.githubusercontent.com/Jamie-Poeffel/gito/refs/heads/main/template/template.gito",
                 "type": "single"
             }
         }
